@@ -1,0 +1,131 @@
+body {
+    background-color : #ecf0f1;
+}
+
+header {
+    
+    width : 600px;
+    height : 70px;
+    margin: 0 auto;
+    font-family : 'Lato' , sans-serif;
+    font-size : 3.3em;
+    font-weight: 100;
+    text-align : center;
+    
+}
+
+#blank {
+    height: 30px;
+}
+
+footer {
+    
+    width : 400px;
+    height : 30px;
+    margin : 0 auto;
+    font-family:  'Lato' , sans-serif;
+    font-size : 1em;
+    font-weight : 300;
+    text-align : center;
+}
+
+#timer {
+    width : 400px;
+    height: 260px;
+    margin : 0 auto;
+    font-family : 'Lato' , sans-serif;
+    font-size : 2em;
+    font-weight: 300;
+}
+
+#timerView {
+    width : 390px;
+    margin : 0 auto;    
+    font-family : 'Helvetica' , sans-serif;
+    font-size : 2.5em;
+    font-weight: 100;
+    text-align: center;
+}
+
+#timerButton {
+    width : 390px;
+    margin : 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#startButton {
+    width : 130px;
+    height : 80px;
+    float: left;
+}
+
+#startImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pauseButton {
+    width : 130px;
+    height : 80px;
+    float: left;
+}
+
+#pauseImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#stopButton {
+    width : 128px;
+    float: left;   
+}
+
+#stopImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logView {
+    width : 400px;
+    height: 250px;
+    margin : 0 auto;
+    font-family : 'Lato' , sans-serif;
+    font-size : 2em;
+    font-weight: 300;
+   
+}
+
+#logGraph {
+    margin-left: auto;
+    margin-right: auto;
+    width : 390px;
+    float : right;
+}
+
+#graph {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#share {
+    width : 100px;
+    height: 50px;
+    margin : auto;    
+}
+
+#facebookShare {
+    width : 40px;
+    float : left;
+    margin : 5px;
+}
+
+#twitterShare {
+    width : 40px;
+    float : left;
+    margin : 5px;
+}
